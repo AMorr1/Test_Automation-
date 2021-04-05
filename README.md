@@ -1,4 +1,4 @@
-##Website Automation Testing using Selenium and TestNG
+## Website Automation Testing using Selenium and TestNG
 
 Selenium is a portable framework for testing web applications. Selenium provides a playback tool for authoring functional tests without the need to learn a test scripting language.
 
@@ -18,7 +18,7 @@ AllCases :- To create several test on website like login , search , contact us a
 Jenkins :-Integrate automation scripts with Jenkins for execution on build deployment 
 
 
-##Website - https://internshala.com/
+## Website - https://internshala.com/
 
-##Created by: 
-##Aman and Anurag
+## Created by: 
+## Aman and Anurag
